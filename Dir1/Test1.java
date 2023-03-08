@@ -18,7 +18,7 @@ public class Test1 {
 	}
 
 	public String toString(){
-		return "int value = "+a+"and the string value is = "+str;
+		return "int value = "+a+" and the string value is = "+str;
 	}
 
-}
+
